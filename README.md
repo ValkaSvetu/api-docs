@@ -2,7 +2,7 @@
 # API dokumentace
 
 ## Základní informace
-Všechny zálkadní informace o API jsou uvedeny na [https://developer.valkasvetu.tk/](https://developer.valkasvetu.tk/).
+Všechny zálkadní informace o API jsou uvedeny na [https://docs.valkasvetu.tk/](https://docs.valkasvetu.tk/).
 <br>
 V tomto repu jsou uvedeny příklady kódu pro práci s API v JavaScriptu.
 
